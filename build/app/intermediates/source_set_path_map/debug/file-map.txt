@@ -1,0 +1,12 @@
+com.example.tistepsdemo.app-core-1.6.0-0 /Users/gopisiva/.gradle/caches/transforms-3/46ba99fe9efa61652d55d750c2b6c036/transformed/core-1.6.0/res
+com.example.tistepsdemo.app-jetified-window-java-1.0.0-beta04-1 /Users/gopisiva/.gradle/caches/transforms-3/70d74eab8f9ca2c2a65123954666da04/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.tistepsdemo.app-jetified-window-1.0.0-beta04-2 /Users/gopisiva/.gradle/caches/transforms-3/82f218b30ba1b0bb05bf622761b8068e/transformed/jetified-window-1.0.0-beta04/res
+com.example.tistepsdemo.app-jetified-annotation-experimental-1.1.0-3 /Users/gopisiva/.gradle/caches/transforms-3/d0f5972ec434f1dda0a7cc6ca8f145d8/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.tistepsdemo.app-debug-4 /Users/gopisiva/tistepsdemo/android/app/src/debug/res
+com.example.tistepsdemo.app-main-5 /Users/gopisiva/tistepsdemo/android/app/src/main/res
+com.example.tistepsdemo.app-pngs-6 /Users/gopisiva/tistepsdemo/build/app/generated/res/pngs/debug
+com.example.tistepsdemo.app-resValues-7 /Users/gopisiva/tistepsdemo/build/app/generated/res/resValues/debug
+com.example.tistepsdemo.app-rs-8 /Users/gopisiva/tistepsdemo/build/app/generated/res/rs/debug
+com.example.tistepsdemo.app-mergeDebugResources-9 /Users/gopisiva/tistepsdemo/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.tistepsdemo.app-mergeDebugResources-10 /Users/gopisiva/tistepsdemo/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.tistepsdemo.app-merged_res-11 /Users/gopisiva/tistepsdemo/build/app/intermediates/merged_res/debug
